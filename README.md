@@ -5,6 +5,7 @@
 
 ### Text Mining
 1.http://tedunderwood.com/2012/08/14/where-to-start-with-text-mining/
+2.http://www.kdnuggets.com/software/text.html
 
 Hortonworks Set up
 1.https://cwiki.apache.org/confluence/display/AMBARI/Install+Ambari+1.7.0+from+Public+Repositories
