@@ -104,3 +104,6 @@ Hortonworks Set up
 
 ### Promise.js
 1.  http://blog.mediumequalsmessage.com/promise-deferred-objects-in-javascript-pt2-practical-use
+
+### Concurrent user calculation/hardware sizing
+1. http://www.numion.com/Calculators/ServerReq.html
