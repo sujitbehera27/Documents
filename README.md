@@ -107,3 +107,6 @@ Hortonworks Set up
 
 ### Concurrent user calculation/hardware sizing
 1. http://www.numion.com/Calculators/ServerReq.html
+
+### D3 2000 examples
+http://techslides.com/over-2000-d3-js-examples-and-demos
