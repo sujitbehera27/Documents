@@ -1,5 +1,13 @@
 ## Open my wiki at the rigt side for more pages
 
+### How to expose your localhost over net using ngrok
+
+open ports:
+https://wiki.mcneel.com/zoo/window7firewall
+Follow instructions 
+https://ngrok.com/
+
+
 ### Hadoop Links
 1.  http://blog.andreamostosi.name/big-data/
 
@@ -113,3 +121,6 @@ http://techslides.com/over-2000-d3-js-examples-and-demos
 
 ### Spring Projects
 https://github.com/spring-projects
+
+
+
